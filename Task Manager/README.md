@@ -1,12 +1,12 @@
-MY DAY: ALL IN ONE ORGANIZER APP
+# MY DAY: ALL IN ONE ORGANIZER APP
 
-• First Year - First Semester Final Project
+## • First Year - First Semester Final Project
 Python | Tkinter | API | JSON
 
 ![image](https://github.com/eLzjie/1st-Sem-Final-Project-/assets/134398401/ec73fc4c-178d-4cc4-9b11-0945316cf33d)
 
 
-Features: 
+## Features: 
 
 • Task Management
 
