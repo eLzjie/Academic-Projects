@@ -5,7 +5,7 @@ city = "Dagupan"
 
 def get_weather(city):
     try:
-        api_key = "da72fc82457489c0fb923d47c7457789"
+        api_key = ""
         response = requests.get(
             f"https://api.openweathermap.org/data/2.5/weather?q={city}&units=imperial&APPID={api_key}"
         )
